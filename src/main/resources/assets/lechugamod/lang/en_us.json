@@ -1,0 +1,11 @@
+{
+  "item.lechugamod.lettuce" : "Lechuga",
+
+  "item.lechugamod.lettuce_sword" : "Espada De Lechuga",
+  "item.lechugamod.lettuce_pickaxe" : "Pico De Lechuga",
+  "item.lechugamod.lettuce_shovel" : "Pala De Lechuga",
+  "item.lechugamod.lettuce_axe" : "Hacha De Lechuga",
+
+
+  "block.lechugamod.lettuce_block" : "Bloque De Lechuga"
+}

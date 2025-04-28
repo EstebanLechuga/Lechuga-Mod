@@ -1,5 +1,7 @@
 package net.esteban.lechugamod;
 
+import net.esteban.lechugamod.block.ModBlocks;
+import net.esteban.lechugamod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -12,5 +14,10 @@ public class LechugaMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		//---registers---//
+		ModItems.register();
+		ModBlocks.register();
+
 	}
 }
